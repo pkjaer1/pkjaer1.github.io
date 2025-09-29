@@ -1,5 +1,3 @@
-# My Student Website
-
 Welcome to my personal homepage! This site was created to be a homepage for my github webpage.
 
 ![Me skiing](IMG_6058 (1).jpg)
